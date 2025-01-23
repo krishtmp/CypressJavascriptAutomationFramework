@@ -1,0 +1,23 @@
+{
+  "name": "cypressjavascriptautomationframework",
+  "version": "1.0.0",
+  "description": "Practice Automation site - exploring my framework setup knowledge on Cypress with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishtmp/CypressJavascriptAutomationFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishtmp/CypressJavascriptAutomationFramework/issues"
+  },
+  "homepage": "https://github.com/krishtmp/CypressJavascriptAutomationFramework#readme",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
